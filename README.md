@@ -14,7 +14,6 @@ I enjoy working with CI/CD pipelines, containerization, Kubernetes, AWS, Infrast
 - ☸️ **Orchestration:** Kubernetes, Helm
 - 🐧 **OS:** Linux, Ubuntu
 - 🔧 **Version Control:** Git, GitHub
-- 📦 **Build Tools:** Maven, npm
 - 📊 **Monitoring:** Prometheus, Grafana
 - 🌐 **Web/Proxy:** Nginx
 - 💻 **Programming:** Java, JavaScript
